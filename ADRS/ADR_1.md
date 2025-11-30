@@ -34,3 +34,4 @@ Aprobado e Implementado
 
 1. El rendimiento se puede ver afectado es cuanto más ciudades tengan un componente que espere mensajes de alerta, pues el Centro debe enviar un mensaje a cada componente.
 2. Si muchas ciudades piden mayor información después de recibir el mensaje, puede haber un cuello de botella, pues solo hay un componente HTTP que recibe las peticiones.
+3. Si no hay un respaldo para los sistemas del Centro de Alarmas, si se caen compromente el **uptime steady**, pues gran parte del sistema se concentra en el centro.

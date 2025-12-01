@@ -1,5 +1,5 @@
 # Tarea 3, INF326
-Tarea 3, evaluaciÓn de arquitectura de software, INF-326
+Tarea 3, evaluación de arquitectura de software, INF-326
 
 Integrantes del grupo:
 - Pablo Arellano, **ROL**: 202073034-2 
